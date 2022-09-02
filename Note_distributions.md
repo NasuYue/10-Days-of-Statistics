@@ -21,6 +21,13 @@ Reference:
 
 ### 5. Normal Distribution
 
+PDF: probability in continuous random var x, 
+PMF: probability in discreate random var x, P(X=x)
+CDF: cumulative probability in discreate random var x from negative infinity to P(X<=x)
+
+- [Library:statistics](https://docs.python.org/zh-tw/3/library/statistics.html)
+
+
 ### 6. Pearson Correlation Coefficient I
 
 ### 7. Spearman's Rank Correlation Coefficient
