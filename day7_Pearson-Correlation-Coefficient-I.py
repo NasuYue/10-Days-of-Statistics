@@ -1,5 +1,6 @@
-# Task
-# Given two n-element data sets, X and Y, calculate the value of the Pearson correlation coefficient.
+# Pearson correlation coefficient
+# Wiki: https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
+# Given two n-element data sets, X and Y, calculate Pearson correlation coefficient.
 import statistics as stats
 
 # Test sampe
