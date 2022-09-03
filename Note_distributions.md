@@ -27,8 +27,14 @@ CDF: cumulative probability in discreate random var x from negative infinity to 
 
 - [Library:statistics](https://docs.python.org/zh-tw/3/library/statistics.html)
 
+### 6. Central Limit Theorem
 
-### 6. Pearson Correlation Coefficient I
+***Central limit theorem(CLT)*** refer to sample mean follows normal distribution with a large N.
+- Sample mean ~ N(mu,std/sqrt(n)), where ***mu=pop/sample mean*** and ***std=(sample mean)/sqrt(n)***
+- Sum of sample mean ~ N(mu',std'), where ***mu' = n\*mu_sample*** and ***std' = sqrt(n)\*std_sample***
 
-### 7. Spearman's Rank Correlation Coefficient
+
+### 7. Pearson Correlation Coefficient I
+
+### 8. Spearman's Rank Correlation Coefficient
 
