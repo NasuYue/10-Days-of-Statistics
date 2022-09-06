@@ -4,7 +4,6 @@
 from sklearn import linear_model
 import pandas as pd
 
-
 # 1. Recevie dataset
 # m = the number of observed features, e.q. [b1, b2, b3 ....]
 # n = the number of feature sets 
